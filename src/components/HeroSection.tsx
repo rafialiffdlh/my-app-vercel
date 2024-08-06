@@ -23,13 +23,13 @@ const HeroSection: React.FC = () => {
               BMW is not just a car, it is a lifestyle
             </h1>
             <p className="pb-6 text-gray-500 xl:pb-10">
-              BMW, or Bayerische Motoren Werke, was founded in 1916 in Munich,
+              {`BMW, or Bayerische Motoren Werke, was founded in 1916 in Munich,
               Germany, initially as an aircraft engine manufacturer. In 1923,
               BMW expanded its production to motorcycles. BMW is known for its
               culture that prioritizes innovation, performance and quality. The
               company's philosophy, "Freude am Fahren" or "The Ultimate Driving
               Machine," reflects BMW's commitment to providing an exceptional
-              driving experience.
+              driving experience.`}
             </p>
           </center>
         </div>

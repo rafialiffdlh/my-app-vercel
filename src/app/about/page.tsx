@@ -18,14 +18,14 @@ const About: FC = () => {
         <div className="container mx-auto lg:grid lg:grid-cols-2 gap-16 py-15 px-16">
           <div className="col-span-1 space-y-8 text-gray-600">
             <p className="text-xl font-medium">
-              BMW (Bayerische Motoren Werke AG) adalah perusahaan multinasional
+              {`BMW (Bayerische Motoren Werke AG) adalah perusahaan multinasional
               asal Jerman yang terkenal memproduksi kendaraan mewah dan sepeda
               motor. Didirikan pada tahun 1916, BMW awalnya berfokus pada mesin
               pesawat sebelum beralih ke sepeda motor dan mobil. Perusahaan ini
               dikenal dengan inovasi, teknologi canggih, dan kualitas tinggi
               dalam setiap produknya. Slogan BMW, "The Ultimate Driving
               Machine," mencerminkan fokus mereka pada pengalaman berkendara
-              yang luar biasa.
+              yang luar biasa.`}
             </p>
           </div>
           <div className="col-span-1">
@@ -55,7 +55,7 @@ const About: FC = () => {
                     Company history
                   </p>
                   <p className="text-gray-500">
-                    BMW, atau Bayerische Motoren Werke AG, didirikan pada 7
+                    {`                    BMW, atau Bayerische Motoren Werke AG, didirikan pada 7
                     Maret 1916. Awalnya, perusahaan ini berfokus pada produksi
                     mesin pesawat dengan nama "Bayerische Flugzeugwerke AG"
                     (BFW), sebelum berganti nama menjadi BMW pada tahun 1917.
@@ -79,7 +79,7 @@ const About: FC = () => {
                     Machine," BMW berkomitmen pada kualitas, keunggulan teknik,
                     dan pengalaman berkendara yang menyenangkan. Hingga kini,
                     BMW tetap menjadi pemimpin di industri otomotif global,
-                    berbasis di Munich, Jerman.
+                    berbasis di Munich, Jerman.`}
                   </p>
                 </div>
               </div>
@@ -95,7 +95,7 @@ const About: FC = () => {
                 <div className="space-y-5 p-8">
                   <p className="text-xl font-medium text-amber-600">Culture</p>
                   <p className="text-gray-500">
-                    Budaya BMW didasarkan pada nilai-nilai inti seperti inovasi,
+                    {` Budaya BMW didasarkan pada nilai-nilai inti seperti inovasi,
                     kualitas, dan performa, yang tertanam dalam setiap aspek
                     operasional perusahaan. Sebagai produsen mobil premium, BMW
                     menekankan pada pengalaman berkendara yang luar biasa,
@@ -109,7 +109,7 @@ const About: FC = () => {
                     kerja kolaboratif, keberagaman, dan keberlanjutan, serta
                     memiliki sejarah kuat dalam motorsport. Filosofi mereka
                     adalah memberikan kegembiraan dalam setiap perjalanan dan
-                    menjaga tanggung jawab sosial.
+                    menjaga tanggung jawab sosial.`}
                   </p>
                 </div>
               </div>

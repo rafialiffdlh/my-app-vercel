@@ -1,6 +1,5 @@
 import React from "react";
 import AboutComponent from "@/components/AboutComponent";
-import CatalogSwiperSection from "@/components/CatalogSwiperCection";
 import CatalogueSection from "@/components/CatalogueSection";
 import CompanySection from "@/components/CompanySection";
 import ContactSection from "@/components/ContactSection";
@@ -15,7 +14,6 @@ const Home: React.FC = () => {
         <CompanySection />
         <AboutComponent />
         <CatalogueSection />
-        <CatalogSwiperSection />
         <ContactSection />
       </div>
     </>
