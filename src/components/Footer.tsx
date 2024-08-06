@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
               Privacy
             </Link>
             <Link className="p-4 hover:underline" href="/terms">
-              Terms
+              Terms & Condition
             </Link>
           </div>
         </div>
